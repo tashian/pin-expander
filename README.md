@@ -1,8 +1,6 @@
 # Pin Expander
 
-Pinterest has a very annoying "Expand" button on all Pins.
-This button indiscriminately crops a lot of images and is an impediment to browsing.
-This Google Chrome extension clicks the button automatically when you look at any Pin.
+Pinterest has a very annoying "Expand" button on all Pins that indiscriminately crops most images and is an impediment to browsing. This Google Chrome extension clicks the button automatically when you look at any Pin.
 
 By [Carl Tashian](http://tashian.com/carl/)
 
